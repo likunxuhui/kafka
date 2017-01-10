@@ -10,5 +10,9 @@ public class Producer {
 		System.out.println("hello world...");
 
 	}
+	public  String add(String a,String b) {
+		return a+b;
+
+	}
 
 }
