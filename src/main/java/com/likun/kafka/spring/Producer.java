@@ -14,5 +14,10 @@ public class Producer {
 		return a+b;
 
 	}
+	
+	public  String addStr(String a,String b) {
+		return a+b;
+
+	}
 
 }
